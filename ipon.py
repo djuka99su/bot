@@ -7,7 +7,6 @@ from selenium.common.exceptions import NoSuchElementException
 import os
 import time
 import threading
-#Change
 
 
 ipon = os.chdir('C:/Users/ndjur/OneDrive/Desktop/ipon')
